@@ -1,4 +1,4 @@
-# Detecting Localizing Pneumonia from Chest X-Ray Scans
+# Detecting and Localizing Pneumonia from Chest X-Ray Scans
 Keras, cv2, Numpy, Pandas, Matplotlib
 
 References:
